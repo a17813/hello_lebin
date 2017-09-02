@@ -1,4 +1,4 @@
-﻿生成启动时间为 2017/8/28 0:38:48。
+﻿生成启动时间为 2017/9/3 0:59:17。
      1>项目“E:\hello_lebin\hello world\hello world\hello world.vcxproj”在节点 2 上(build 个目标)。
      1>InitializeBuildStatus:
          正在创建“Debug\hello world.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
@@ -17,4 +17,4 @@
 
 生成成功。
 
-已用时间 00:00:01.05
+已用时间 00:00:00.95
